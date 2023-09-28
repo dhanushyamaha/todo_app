@@ -3,3 +3,4 @@ wakeup
 swim
 play
 save some money
+meditate
